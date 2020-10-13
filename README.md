@@ -6,4 +6,7 @@ npm test
 ```  
 
 Review test resume in terminal log
-For video evidence for test cases you can go to cypress/videos
+
+# Test cases evidence
+
+You can go to cypress/videos
